@@ -1,0 +1,15 @@
+engagement_id,student_rollno,student_name,department,semester,activity_type,platform,date,duration_min,participation_score,submission_status,device_type
+14,CS2023008,"Arjun Reddy","Computer Science",3,Project,Offline,2023-09-07,200,95.00,Submitted,Desktop
+55,CS2023026,"Vedant Saxena","Computer Science",3,Lab,Moodle,2023-09-24,140,94.00,Submitted,Desktop
+19,CS2023008,"Arjun Reddy","Computer Science",3,Lecture,"MS Teams",2023-09-08,90,93.50,Submitted,Desktop
+61,CS2023032,"Aarushi Jain","Computer Science",3,Project,Offline,2023-09-27,190,92.50,Submitted,Desktop
+2,CS2023001,"Aarav Sharma","Computer Science",3,Lab,Moodle,2023-09-03,120,92.00,Submitted,Desktop
+49,CS2023026,"Vedant Saxena","Computer Science",3,Lecture,"MS Teams",2023-09-20,90,91.00,Submitted,Desktop
+10,CS2023004,"Ananya Singh","Computer Science",3,Lab,Moodle,2023-09-06,115,89.00,Late,Tablet
+37,CS2023020,"Trisha Nair","Computer Science",3,Assignment,Moodle,2023-09-15,80,88.50,Submitted,Tablet
+1,CS2023001,"Aarav Sharma","Computer Science",3,Lecture,"MS Teams",2023-09-01,90,85.50,Submitted,Desktop
+43,CS2023020,"Trisha Nair","Computer Science",3,Quiz,"Google Classroom",2023-09-16,50,85.00,Submitted,Mobile
+67,CS2023032,"Aarushi Jain","Computer Science",3,Quiz,"Google Classroom",2023-09-29,55,84.00,Submitted,Mobile
+25,CS2023014,"Vihaan Joshi","Computer Science",3,Lab,Moodle,2023-09-10,125,83.50,Late,Tablet
+5,CS2023004,"Ananya Singh","Computer Science",3,Assignment,Moodle,2023-09-02,60,NULL,Missing,NULL
+31,CS2023014,"Vihaan Joshi","Computer Science",3,Assignment,Moodle,2023-09-12,65,NULL,Missing,NULL

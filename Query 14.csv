@@ -1,0 +1,25 @@
+department,platform,Total_Used
+"Computer Science","MS Teams",3
+"Computer Science",Moodle,7
+Electronics,"Google Classroom",2
+Mechanical,Offline,2
+Electrical,"MS Teams",5
+Electronics,Moodle,4
+Mechanical,"Google Classroom",4
+Civil,"MS Teams",3
+Electrical,"Google Classroom",3
+Biotech,"MS Teams",3
+Civil,Moodle,3
+"Computer Science",Offline,2
+Mechanical,"MS Teams",3
+Biotech,Moodle,5
+Electronics,Offline,2
+Mechanical,Moodle,3
+Civil,"Google Classroom",2
+Electronics,"MS Teams",4
+Civil,Offline,2
+Electrical,Offline,1
+"Computer Science","Google Classroom",2
+Biotech,"Google Classroom",1
+Biotech,Offline,1
+Electrical,Moodle,3

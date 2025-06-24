@@ -1,0 +1,14 @@
+department,submission_status,Submission_rate
+Biotech,Late,0.0143
+Biotech,Submitted,0.1286
+Civil,Submitted,0.1429
+"Computer Science",Late,0.0286
+"Computer Science",Missing,0.0286
+"Computer Science",Submitted,0.1429
+Electrical,Missing,0.0286
+Electrical,Submitted,0.1429
+Electronics,Late,0.0429
+Electronics,Missing,0.0143
+Electronics,Submitted,0.1143
+Mechanical,Late,0.0143
+Mechanical,Submitted,0.1571
